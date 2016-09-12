@@ -1,0 +1,27 @@
+.main {
+    background-color: lightblue;
+    min-height: 500px;
+}
+#bg-image {
+	min-height: 100%;
+	min-width: 1024px;
+	width: 100%
+	height: auto;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+#quote {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;	
+}
+
+.roverImage{
+	width: 100%;
+	height: auto;
+	}
+
